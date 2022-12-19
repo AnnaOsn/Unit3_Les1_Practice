@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар1\Unit3_Les1\Unit3_Les1_Practice\Tasks\obj\Debug\net6.0\Tasks.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар1\Unit3_Les1\Unit3_Les1_Practice\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар1\Unit3_Les1\Unit3_Les1_Practice\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар1\Unit3_Les1\Unit3_Les1_Practice\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар1\Unit3_Les1\Unit3_Les1_Practice\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
